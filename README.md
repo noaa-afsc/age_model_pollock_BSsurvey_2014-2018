@@ -1,5 +1,8 @@
 # age_model_pollock_BSsurvey_2014-2018
 
+Machine learning model to predict age from Fourier transform near-infrared (FT-NIR) spectra of 
+otoliths that was used in Benson et al. 2023 (https://doi.org/10.1139/cjfas-2023-0045)
+
 "This repository is a scientific product and is not official communication of the National Oceanic 
 and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub 
 pro}ect code is provided on an 'as is' basis and the user assumes responsibility for its use. Any 
